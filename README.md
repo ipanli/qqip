@@ -24,8 +24,8 @@ npm i qqip
  * 
  * */
 /**
- * uip = 要查询用户的ip
- * ukey = 腾讯开发者注册的 key
+ * @uip = 要查询用户的ip
+ * @ukey = 腾讯开发者注册的 key
  * @param {String} path
  * @return {Object} exports
  * @api public
