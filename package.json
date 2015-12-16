@@ -1,7 +1,7 @@
 {
   "name": "qqip",
-  "version": "0.0.1",
-  "description": "qqip`",
+  "version": "0.0.3",
+  "description": "qqip 获取用户ip 地址 信息`",
   "main": "index.js",
   "scripts": {
     "test": "make test"

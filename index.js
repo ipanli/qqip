@@ -9,7 +9,7 @@ var getip = function (uip,ukey,callback) {
         return callback(err);
       }
       var ipinfo = res.text;
-      callback(null, ipinfo);
+      callback(null, JSON.parse(ipinfo));
     });
 };
 
